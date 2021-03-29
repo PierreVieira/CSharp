@@ -1,0 +1,13 @@
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.exe
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.deps.json
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.runtimeconfig.json
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.runtimeconfig.dev.json
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.dll
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.pdb
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.csprojAssemblyReference.cache
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.AssemblyInfoInputs.cache
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.AssemblyInfo.cs
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.dll
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.pdb
+C:\Users\pierr\RiderProjects\Teste1\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.genruntimeconfig.cache

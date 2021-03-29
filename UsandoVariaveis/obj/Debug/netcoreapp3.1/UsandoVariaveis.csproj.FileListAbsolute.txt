@@ -1,0 +1,13 @@
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\bin\Debug\netcoreapp3.1\UsandoVariaveis.exe
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\bin\Debug\netcoreapp3.1\UsandoVariaveis.deps.json
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\bin\Debug\netcoreapp3.1\UsandoVariaveis.runtimeconfig.json
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\bin\Debug\netcoreapp3.1\UsandoVariaveis.runtimeconfig.dev.json
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\bin\Debug\netcoreapp3.1\UsandoVariaveis.dll
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\bin\Debug\netcoreapp3.1\UsandoVariaveis.pdb
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\obj\Debug\netcoreapp3.1\UsandoVariaveis.csprojAssemblyReference.cache
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\obj\Debug\netcoreapp3.1\UsandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\obj\Debug\netcoreapp3.1\UsandoVariaveis.AssemblyInfo.cs
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\obj\Debug\netcoreapp3.1\UsandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\obj\Debug\netcoreapp3.1\UsandoVariaveis.dll
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\obj\Debug\netcoreapp3.1\UsandoVariaveis.pdb
+C:\Users\pierr\RiderProjects\Teste1\UsandoVariaveis\obj\Debug\netcoreapp3.1\UsandoVariaveis.genruntimeconfig.cache
