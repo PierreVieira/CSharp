@@ -1,0 +1,13 @@
+C:\Users\pierr\RiderProjects\Teste1\triang0\bin\Debug\netcoreapp3.1\triang0.exe
+C:\Users\pierr\RiderProjects\Teste1\triang0\bin\Debug\netcoreapp3.1\triang0.deps.json
+C:\Users\pierr\RiderProjects\Teste1\triang0\bin\Debug\netcoreapp3.1\triang0.runtimeconfig.json
+C:\Users\pierr\RiderProjects\Teste1\triang0\bin\Debug\netcoreapp3.1\triang0.runtimeconfig.dev.json
+C:\Users\pierr\RiderProjects\Teste1\triang0\bin\Debug\netcoreapp3.1\triang0.dll
+C:\Users\pierr\RiderProjects\Teste1\triang0\bin\Debug\netcoreapp3.1\triang0.pdb
+C:\Users\pierr\RiderProjects\Teste1\triang0\obj\Debug\netcoreapp3.1\triang0.csprojAssemblyReference.cache
+C:\Users\pierr\RiderProjects\Teste1\triang0\obj\Debug\netcoreapp3.1\triang0.AssemblyInfoInputs.cache
+C:\Users\pierr\RiderProjects\Teste1\triang0\obj\Debug\netcoreapp3.1\triang0.AssemblyInfo.cs
+C:\Users\pierr\RiderProjects\Teste1\triang0\obj\Debug\netcoreapp3.1\triang0.csproj.CoreCompileInputs.cache
+C:\Users\pierr\RiderProjects\Teste1\triang0\obj\Debug\netcoreapp3.1\triang0.dll
+C:\Users\pierr\RiderProjects\Teste1\triang0\obj\Debug\netcoreapp3.1\triang0.pdb
+C:\Users\pierr\RiderProjects\Teste1\triang0\obj\Debug\netcoreapp3.1\triang0.genruntimeconfig.cache
